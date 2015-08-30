@@ -33,6 +33,7 @@ static dispatch_once_t oncePredicate;
 
     int x = 0;
     int t = 0;
+    int y = 0;
 	return self;
 }
 
