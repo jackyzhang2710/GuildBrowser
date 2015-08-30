@@ -32,6 +32,7 @@ static dispatch_once_t oncePredicate;
 	[self setDefaultHeader:@"Accept" value:@"application/json"];
 
     int x = 0;
+    int y = 0;
 	return self;
 }
 
